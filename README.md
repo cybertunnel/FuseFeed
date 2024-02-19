@@ -24,11 +24,11 @@ TODO
 
 Any contribution to this project is greatly appreciated! For any bugs and suggestions, please open an issue. If fixing a bug, or adding a feature, please open a pull request.
 
-Please read [CONTRIBUTING.md]() for details on our code of conduct, and the process for submitting pull requests to us.
+Please read [CONTRIBUTING.md](./CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
 
 ## License
 
-This project is licensed under the GNU General Public License v3.0 - see the [LICENSE]() file for details.
+This project is licensed under the GNU General Public License v3.0 - see the [LICENSE](./LICENSE) file for details.
 
 ## Acknowledgments
 
